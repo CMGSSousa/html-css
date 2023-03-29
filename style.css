@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body {
+    background-color: black;
+    color: rgb(194, 51, 15);
+    text-align: justify;
+    
+}
+h1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 3em;
+    
+}
+
+.quadro1 {
+    height: 300px;
+    margin: auto;
+    margin: 50px;
+    background-color: beige;
+
+}
+.quadro2 {
+   height: 300px;
+    margin: auto;
+    margin: 50px;
+    background-color: beige;
+
+}

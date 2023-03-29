@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+@font-face {
+    font-family: "Teste1";
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+header {
+    text-align: center;
+    font-family: "teste1"; 
+
+}
+header h1 {
+    font-weight: lighter;
+    font-size: 3em;
+}
+body {
+     background-color: bisque;
+}
+main {
+    text-indent: 30px;
+}
+section > p {
+    text-align: justify;
+    font-family: 'Roboto Mono', monospace;
+}
+section.box{
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 600px;
+    
+}
+#box1 {
+    
+}
+footer {
+    text-align: center;
+    
+
+}
